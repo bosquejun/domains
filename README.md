@@ -2,7 +2,9 @@
 
 Free `*.is-pinoy.dev` subdomains for Filipino developers.
 
-Point your portfolio, side project, or open source work at a subdomain that represents where you're from.
+> **Notice:** We are only accepting **portfolio websites** for the meantime. Submissions for other use cases (side projects, open source tools, etc.) will not be reviewed until further notice.
+
+Point your portfolio at a subdomain that represents where you're from.
 
 ## Register a Subdomain
 
