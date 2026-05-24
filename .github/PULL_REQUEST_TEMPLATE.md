@@ -10,6 +10,12 @@
 - [ ] CNAME value ends with a trailing dot (e.g. `yoursite.vercel.app.`)
 - [ ] The subdomain points to something real and active
 
+### Website Screenshot
+
+Please attach a screenshot of your portfolio website below so maintainers can verify it is live and accessible.
+
+<!-- Drag and drop your screenshot here -->
+
 ### Terms
 
 - [ ] My subdomain is for a non-commercial developer project (portfolio, app, API, open source tool, or similar)
